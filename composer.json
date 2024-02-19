@@ -20,7 +20,7 @@
     "extra": {
         "laravel": {
             "providers": [
-                "Thegiant\\Aes\\AesServiceProvider"
+                "Thegiant\\Algorithms\\AesServiceProvider"
             ]
         }
     },
