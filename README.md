@@ -1,4 +1,4 @@
-# thegiant/aes
+# thegiant/algorithms
 
 ## Description
 
