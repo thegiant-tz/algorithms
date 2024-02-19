@@ -1,5 +1,5 @@
 <?php
-namespace Thegiant\Aes;
+namespace Thegiant\Algorithms;
 
 class AES
 {
