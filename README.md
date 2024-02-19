@@ -9,7 +9,7 @@ This package is useful for data encryption and decryption
 This package can be installed via composer
 
 ``` php
-composer require thegiant/aes
+composer require thegiant/algorithms
 ```
 
 ### Laravel >= 5.5
