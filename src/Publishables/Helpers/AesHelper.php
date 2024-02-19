@@ -1,6 +1,6 @@
 <?php 
 
-use Thegiant\Aes\AES;
+use Thegiant\Algorithms\AES;
 
 if (!function_exists('aes_decrypt')) {
     function aes_decrypt($encrypted_data) {

@@ -1,6 +1,6 @@
 <?php
 
-namespace Thegiant\Aes;
+namespace Thegiant\Algorithms;
 
 use Illuminate\Support\Facades\Schema;
 use Illuminate\Support\ServiceProvider;
